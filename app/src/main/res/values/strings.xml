@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Belajar Hidroponik</string>
+    <string name="apa_itu_hidroponik">Apa Itu Hidroponik??</string>
+    <string name="tanaman_hidroponik">Tanaman Hidroponik</string>
+    <string name="todo">TODO</string>
+    <string name="pengertian">Pengertian Hidroponik</string>
+    <string name="Judul">Apa Itu Hidroponik??</string>
+    <string name="pengertian_hidroponik">Pengertian Hidroponik:</string>
+    <string name="pengertian_hidroponiks">Hidroponik adalah suatu budidaya menanam dengan mamakai (memanfaatkan) air tanpa memakai tanah dan menekankan penumbuhan kebutuhan nutrisi untuk tanaman. Kebutuhan air pada tanaman hidroponik lebih sedikit dibandingkan kebutuhan air pada budidaya dengan memakai media tanah. Hidroponik memakai air yang lebih efisien, jadi sangat cocok diterapkan pada daerah yang mempunyai pasokan air yang terbatas.</string>
+    <string name="urutan_penanaman">Urutan Penanaman</string>
+    <string name="manfaat_hidroponik">Manfaat Hidroponik</string>
+    <string name="manfaat">A.Manfaat penerapan hidroponik :\n
+\n1.Hasil dan kualitas tanaman lebih tinggi
+\n2.Lebih terbebas dari hama dan penyakit
+\n3.Penggunaan air dan pupuk lebih hemat
+\n4.Dapat untuk mengatasi masalah tanah
+\n5.Dapat untuk mengatasi masalah keterbatasan lahan\n\n
+    B.Manfaat dalam Produksi Sayuran dan Buah\n
+\n1.Penggunaan lahan lebih efisien.
+\n2.Hasil sayuran dan hasil buah memiliki kualitas tinggi.
+\n3.Tidak tercemar pestisida, limbah dan kotoran.
+\n4.Tersedia segar saat \n\n
+    C.Manfaat dalam Produksi Tanaman Hias\n
+\n1.Prospek cukup baik.
+\n2.Untuk keperluan sendiri, diperdagangkan maupun disebarkan.
+\n3.Wadah berupa pot khusus hidroponik.
+\n4.Media pasir, pecahan batu apung, atau kerikil sintetis.</string>
+    <string name="teknik_dan_cara_hidroponik">Teknik Dan Cara Hidroponik</string>
+    <string name="kelebihan_dan_kekurangan_hidroponik">Kelebihan Dan kekurangan Hidroponik</string>
+    <string name="kelebihan_dan_kekurangan">A.Kelebihan bercocok tanam menggunakan sistem hidroponik\n
+\n1.Dapat dilakukan pada ruang / tempat yang terbatas dan higienis
+\n2.Tanaman tumbuh lebih cepat dan penggunaan pupuk bisa lebih hemat
+\n3.Lebih terjamin dan bebas dari serangga dan hawa penyakit
+\n4.Produksi tanaman lebih tinggi dibanding dengan menggunakan media tanam tanah biasa
+\n5.Efisien dalam teknis perawatan dan peralatan yang digunakan
+\n6.Kualitas tanaman yang dihasilkan lebih bagus dan tidak kotor\n\n
+B.Kekurangan sistem hidroponik antara lain:\n
+\n1.Membutuhkan modal yang besar
+\n2.Pada kultur substrat, kapisitas memegang air media substrat lebih kecil dari pada media tanah sehingga akan menyebabkan pelayuan tanaman yang cepat dan stres yang serius.</string>
+    <string name="technic_name">Nama Teknik</string>
+    <string name="pengertian_teknik">Pengertian Teknik :</string>
+    <string name="content_pengertian">content Pengertian</string>
+    <string name="bahan">Bahan Pembuatan Sistem Hidroponik Sederhana: </string>
+    <string name="content_bahan">content Bahan</string>
+    <string name="content_kelebihan">content kelebihan</string>
+    <string name="kelebihan_teknik">Kelebihan Teknik:</string>
+    <string name="kekurangan_teknik">Kekurangan Teknik:</string>
+    <string name="content_cara">content_cara</string>
+    <string name="cara">Cara Pembuatan Sistem Hidroponik Sederhana:</string>
+    <string name="Nama">Muhammad Azri Fatihah Susanto</string>
+    <string name="email">farizazri44@gmail.com</string>
+    <string name="tanamancocok">Tanaman Yang Cocok Dengan Hidroponik</string>
+    <string name="nama_tanaman">Nama Tanaman</string>
+    <string name="kandungan_gizi">Kandungan Gizi</string>
+    <string name="context_pengertian">context pengertian</string>
+    <string name="masa_panen">Masa Panen :</string>
+    <string name="content_panen">content panen</string>
+    <string name="tabel">Tabel PPM Dan PH</string>
+    <string name="tabel_sayur_daun">Tabel PPM Dan PH Sayuran Daun</string>
+    <string name="tabel_sayurbuah">Tabel PPM Dan PH Sayuran Buah</string>
+    <string name="tabel_buah">Tabel PPM Dan PH Tanaman Buah</string>
+    <string name="tabel_bunga">Tabel PPM Dan PH Tanaman Bunga</string>
+    <string name="tabel_herbs">Tabel PPM Dan PH Tanaman Herbal</string>
+    <string name="tabel_umbi">Tabel PPM Dan PH Tanaman Umbi</string>
+    <string name="kalkulator_ppm_hidroponik">Kalkulator PPM Hidroponik</string>
+</resources>

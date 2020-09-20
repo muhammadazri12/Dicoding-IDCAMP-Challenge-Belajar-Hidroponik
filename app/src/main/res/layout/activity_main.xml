@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/back">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        app:srcCompat="@drawable/gambar"
+        android:contentDescription="@string/todo" />
+
+    <Button
+        android:id="@+id/btn_apa_itu_hidroponik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@android:color/holo_green_light"
+        android:text="@string/apa_itu_hidroponik"
+        android:textStyle="bold"/>
+    <Button
+        android:id="@+id/btn_teknik_dan_cara"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@android:color/holo_green_light"
+        android:text="@string/teknik_dan_cara_hidroponik"
+        android:textStyle="bold"/>
+    <Button
+        android:id="@+id/btn_tanaman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/tanamancocok"
+        android:background="@android:color/holo_green_light"
+        android:textStyle="bold"/>
+    <Button
+        android:id="@+id/btn_tabel_ppmDanPH"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/tabel"
+        android:background="@android:color/holo_green_light"
+        android:textStyle="bold"/>
+
+</LinearLayout>

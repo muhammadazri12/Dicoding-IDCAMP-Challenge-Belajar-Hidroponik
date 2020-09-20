@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android ="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tabel_PPM_dan_PH"
+    android:orientation="vertical"
+    android:background="@drawable/back">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/tabel"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabel_sayur_daun"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginLeft="11dp"/>
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="291dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/tabel1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabel_sayurbuah"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginLeft="11dp"/>
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="154dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/tabel2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabel_buah"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginLeft="11dp"/>
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="195dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/tabel3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabel_bunga"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginLeft="11dp"/>
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:src="@drawable/tabel4"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabel_herbs"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginLeft="11dp"/>
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="251dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/tabel5" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tabel_umbi"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginLeft="11dp"/>
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="166dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/tabel6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" "/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" "/>
+    </LinearLayout>
+
+</ScrollView>
